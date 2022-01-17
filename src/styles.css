@@ -74,7 +74,16 @@ h2 {
   padding: 100px 60px;
 }
 
-@media (max-width: 960px) {
+@media (max-width: 900px) {
+  h1 {
+    font-size: 50px;
+  }
+  h2 {
+    font-size: 40px;
+  }
+  .hero {
+    padding: 80px 20px;
+  }
   .project-discription {
     padding: 0;
     text-align: center;
