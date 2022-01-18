@@ -87,7 +87,7 @@ h2 {
   font-family: var(--default-font-family);
   font-weight: bold;
 }
-.content-inner {
+.content {
   margin: 30px;
 }
 
